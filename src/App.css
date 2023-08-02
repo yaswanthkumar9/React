@@ -1,0 +1,14 @@
+/* @import url('https://www.googleapis.com/webfonts/v1/webfonts?family=Poppins') */
+
+* {
+  padding:0;
+  margin:0;
+  box-sizing:border-box;
+  font-family:"Poppins",sans-serif;
+}
+
+.container{
+  width:700px;
+  margin:20px auto;
+
+}
